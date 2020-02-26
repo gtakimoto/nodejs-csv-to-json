@@ -1,2 +1,4 @@
 # nodejs-csv-to-json
-Microsoft: DEV283x - Introduction to NodeJS
+<b>Microsoft DEV283x</b>  
+<b>Course</b>: Introduction to NodeJS  
+<b>Module 1 Assignment Lab</b>: CSV to JSON Converter
